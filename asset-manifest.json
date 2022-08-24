@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JM-Cab1les/my-first-react/static/css/main.6cbb709d.css",
+    "main.js": "/JM-Cab1les/my-first-react/static/js/main.7ac29dcb.js",
+    "index.html": "/JM-Cab1les/my-first-react/index.html",
+    "main.6cbb709d.css.map": "/JM-Cab1les/my-first-react/static/css/main.6cbb709d.css.map",
+    "main.7ac29dcb.js.map": "/JM-Cab1les/my-first-react/static/js/main.7ac29dcb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cbb709d.css",
+    "static/js/main.7ac29dcb.js"
+  ]
+}
