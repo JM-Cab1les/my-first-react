@@ -1,0 +1,45 @@
+
+body
+{
+  background: lightgrey;
+}
+main
+{
+  min-height: 85vh;
+  text-align: center;
+  padding:5px;
+}
+button
+{
+  width: 10%;
+  padding: 5px;
+  font-size: 20px;
+}
+.form-container,
+.form-container-1
+{
+ 
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+.form-container .form-input,
+.form-container-1 .form-input-1
+{
+  width: 30% !important;
+  
+}
+
+.submit-btn
+{
+  margin-top: 20px;
+}
+input
+{
+  width: 10%;
+}
+
+/* Ways to styling react */
+/* Inline */
+/* JavaScript object */
+/* Css Stylesheet */
